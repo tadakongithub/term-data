@@ -21,4 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-termB.json
+/class_by_class (1).xlsx
+/kubun.xlsx
+/src/components/termB.json
