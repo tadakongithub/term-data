@@ -1,0 +1,18 @@
+
+.total{
+    margin: 50px auto auto;
+    width: 1000px;
+}
+
+.grid-container{
+    width: 1200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(5, 1fr);
+    margin: 50px auto 50px;
+    grid-gap: 50px;
+}
+
+h1, h2, h3{
+    text-align: center;
+}

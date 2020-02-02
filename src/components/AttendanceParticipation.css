@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.all-week{
+    width: 1000px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display : grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(5, 1fr);
+    grid-row-gap: 20px;
+}
+
+
+
+.week-title{
+    text-align: center;
+}
